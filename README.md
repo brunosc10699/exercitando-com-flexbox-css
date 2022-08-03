@@ -6,6 +6,6 @@ Este repositório é fruto do exercício proposto, pela instrutora [Gabriela Pin
 
 ![exercitando-com-flexbox-css.webp](https://raw.githubusercontent.com/brunosc10699/exercitando-com-flexbox-css/main/.github/images/exercitando-com-flexbox-css.webp)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f680353a-7ce0-44cc-80f5-a4aea7d61112/deploy-status)](https://app.netlify.com/sites/exercitando-com-flexbox-css/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1b7f0085-2c0a-4f31-abba-d795606a8d7c/deploy-status)](https://app.netlify.com/sites/exercitando-com-flexbox-css/deploys)
 
 Link: https://exercitando-com-flexbox-css.netlify.app/
